@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuTest</string>
+    <string name="settings">settings</string>
+    <string name="another">Another</string>
+    <string name="settings_content">settings</string>
+    <string name="another_content">Another</string>
+    <string name="long_click">长按菜单</string>
+    <string name="click">弹出菜单</string>
+    <string name="settings_pop">settings</string>
+    <string name="another_pop">Another</string>
+</resources>
